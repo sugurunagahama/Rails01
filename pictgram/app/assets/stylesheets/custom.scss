@@ -1,3 +1,10 @@
+.alert {
+  margin-bottom: 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 10000;
+}
+
 .form-control {
   height: 45px;
 }
@@ -17,6 +24,10 @@
 
     .form-group {
       margin-bottom: 20px;
+      
+      
     }
   }
 }
+
+
